@@ -18,6 +18,6 @@ services:
     depends_on:
       - app
     ports:
-      - "3500:3500"
+      - "3200:3200"
     expose:
       - 5000
